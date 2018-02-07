@@ -1,0 +1,19 @@
+{
+  "name": "server.js",
+  "version": "0.0.1",
+  "description": "Second time first app",
+  "main": "server.js",
+  "scripts": {
+    "start": "nodemon serverjs"
+  },
+  "keywords": [
+    "SecondChance",
+    "FirstApp",
+    "Training"
+  ],
+  "author": "Gustaveddine",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.16.2"
+  }
+}
